@@ -1,0 +1,28 @@
+body {
+  background-color: mediumseagreen;
+}
+#foodquote-con {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  background-color: mediumslateblue;
+}
+#boyImg-con {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  padding: 20px;
+  background-color: mediumturquoise;
+}
+#abs-con {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  padding: 20px;
+  background-color: mediumvioletred;
+}
+img {
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+}
